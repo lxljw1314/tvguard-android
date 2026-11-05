@@ -25,5 +25,19 @@
     "phone",
     "tablet"
   ],
-  "installUrl": "index.html"
+  "installUrl": "index.html",
+  "adb_required_scope": "apk_download_and_install_only; does not imply first_authorization",
+  "first_authorization": "system_accessibility_entry_or_phone_assisted_network_debug",
+  "universal_tv_authorization_verified": false,
+  "preview": {
+    "version": "1.30.0",
+    "versionCode": 36,
+    "apk": "TVGuard-v1.30.0.apk",
+    "sha256": "34090f2444d9d1b7287ddc8d138ee599cde41b4770e6f79a4c21283bd5b0cca8",
+    "size": 2769341,
+    "release": "https://github.com/lxljw1314/tvguard-android/releases/tag/v1.30.0",
+    "classic_network_adb_required_if_entry_hidden": true,
+    "tls_pairing_supported": false,
+    "hardware_validation": "pending"
+  }
 }
