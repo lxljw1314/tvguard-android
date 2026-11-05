@@ -1,0 +1,29 @@
+{
+  "app": "tvguard",
+  "version": "1.29.0",
+  "versionCode": 34,
+  "apk": "TVGuard-v1.29.0.apk",
+  "sha256": "384a2fd76931c89859ba6efc7545f3d62427b7e36398fd8f8091aced64caed5e",
+  "size": 2755626,
+  "minSdk": 21,
+  "distribution": "android_direct_download",
+  "ordinary_user_install": true,
+  "windows_required": false,
+  "adb_required": false,
+  "first_install_confirmation": true,
+  "supported_brands": [
+    "TCL",
+    "雷鸟",
+    "小米",
+    "华为",
+    "海信",
+    "其他可安装 APK 的 Android TV/Google TV"
+  ],
+  "ota": "same_wifi_phone_to_tv",
+  "roles": [
+    "android_tv",
+    "phone",
+    "tablet"
+  ],
+  "installUrl": "index.html"
+}
