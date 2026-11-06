@@ -30,14 +30,16 @@
   "first_authorization": "system_accessibility_entry_or_phone_assisted_network_debug",
   "universal_tv_authorization_verified": false,
   "preview": {
-    "version": "1.30.0",
-    "versionCode": 36,
-    "apk": "TVGuard-v1.30.0.apk",
-    "sha256": "34090f2444d9d1b7287ddc8d138ee599cde41b4770e6f79a4c21283bd5b0cca8",
-    "size": 2769341,
-    "release": "https://github.com/lxljw1314/tvguard-android/releases/tag/v1.30.0",
+    "version": "1.31.1",
+    "versionCode": 38,
+    "apk": "TVGuard-v1.31.1.apk",
+    "sha256": "df21643168d503431afa8d44ae1ee802e6900d85ba4ddd2584a52369adc1caf0",
+    "size": 2781043,
+    "release": "https://github.com/lxljw1314/tvguard-android/releases/tag/v1.31.1",
     "classic_network_adb_required_if_entry_hidden": true,
     "tls_pairing_supported": false,
-    "hardware_validation": "pending"
+    "hardware_validation": "pending",
+    "emulator_first_setup_validation": "passed",
+    "emulator_release_validation": "passed"
   }
 }
